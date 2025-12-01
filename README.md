@@ -65,6 +65,9 @@ CLI Java application
 ## 📞 Connect  
 **GitHub:** https://github.com/Tejassingh04  
 **LinkedIn:** https://www.linkedin.com/in/tejassingh04
+**Mail:** tejassingh4oct@gmail.com
+**Resume:** <coming>
+
 
 ---
 
